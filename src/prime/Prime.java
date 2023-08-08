@@ -64,6 +64,7 @@ public class Prime {
 	System.out.println(i+" Not prime"); 
 
 // first change in cloning process
+		// second process for local pull request 
 
 	}
 
