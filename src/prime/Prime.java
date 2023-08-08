@@ -68,6 +68,8 @@ public class Prime {
            
 //after pulling added
 
+		// before  pulling
+
 	}
 
 }
