@@ -63,6 +63,8 @@ public class Prime {
 	else
 	System.out.println(i+" Not prime"); 
 
+// first change in cloning process
+
 	}
 
 }
